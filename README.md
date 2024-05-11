@@ -32,6 +32,10 @@ Step 9:
 For all the animal prefabs and food in th inspector (below the layer ) drop down the override option and choose apply all.
 
 ### PROGRAM:
+```
+NAME : SUDHARSAN RAM M 
+REG NO: 212222110048
+```
 
 SPAWN MANAGER:
 ```
